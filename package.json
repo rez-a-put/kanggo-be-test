@@ -1,0 +1,30 @@
+{
+  "name": "kanggo",
+  "version": "1.0.0",
+  "description": "a kanggo technical test",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rez-a-put/kanggo-be-test.git"
+  },
+  "author": "Reza Andri Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rez-a-put/kanggo-be-test/issues"
+  },
+  "homepage": "https://github.com/rez-a-put/kanggo-be-test#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}
